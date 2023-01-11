@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 ,Fox Sport 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/w/4rdaY1XLrGj1dySyw", Panamericana Web® 298p
+http://cdnh71.iblups.com/hls/ptv2.m3u8
